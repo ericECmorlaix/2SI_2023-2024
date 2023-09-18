@@ -22,7 +22,7 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
     - Cahier de texte : index.md
-    - Ressources : ressouces.md
+    - Ressources : ressources.md
     # - Fiche : Fiche_SI.md    
     # - Fiche d'information : Nom_Prenom-fiche.ipynb    
     # - Notebook jupyter : notebook.md
