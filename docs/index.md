@@ -321,65 +321,32 @@
 
 ****
 
-## Le 04/10
+   
+    
+
+
+ -->
+***
+## Le 26/09
 
 === "CONTENU DE SÉANCE"
 
-    - Remédiation [Prise en main des notebook jupyter](./notebook) pour communiquer un compte rendu ;
-
-    - **Découvrir** [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) ;
+    - Remédiation [Prise en main d'Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour communiquer un compte rendu ;    
 
     - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
-        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `rndiwfdk` fourni​​​ pour débuter le **Parcours_1** ;
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `ctmn56wn` fourni​​​ pour débuter le **Parcours_1** ;
         - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
         - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
 
 === "TRAVAIL À FAIRE"
 
-    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
-
-    - **Relire** [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) ;
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}    
 
     - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
-    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2022-2023/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
-    
+    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/2SI_2023-2024/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/2SI_2023-2024/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
-## Le 27/09
-
-=== "CONTENU DE SÉANCE"
-
-    ### Présentation de l'environnement de travail :
-    
-    - Dépot [GitHub](https://github.com/ericECmorlaix/2SI_2022-2023){target="_blank"} qui héberge ce site ;
-    - Organisation du Labo de SI ;
-    - Applications iPad utiles : **Carnets**, **Obsidian**, Mindomo, Sketchbook, **EV3 Classroom**, OnShape, ...   
-
-    ### Prise en main des [notebook jupyter](./notebook) pour communiquer un compte rendu :
-
-    ![work](images/undraw_Work_time_re_hdyv.svg){: .center width=40%}
-
-    - **compléter** dans un navigateur une [fiche d'informations à partir de son lien **basthon**](https://notebook.basthon.fr/?ipynb=eJztVttu4zYQ_ZWp8uBdwJKv2USO66DdYtEAaTfb3RYo4iCgyJHFhCK1JBXHCPIvfUw-oc_-sQ5lx-ukaNHkqShqGDaH5NzOnBnpJuKolItGpzdRiZ4J5lk0urltN_vnflFhNIpKZi-FmeuoHTlTWx72dnbgneQFgkCwqB3KmcYStXdQ0R1Qre3NcEss77mpr9D6oOTgI5eoOS3oTLWO9Gx5ryXWNrptPz-YHTgS5EfmkjMvjR5NdQw_mhJGkCRJEE4oym35rWLO4YM81cHGW4TPNcIFQs6koy-ghn6334_pZwCH8KE2kv7eL3-Hw6C0pfuhRgXoPJRGQ2XNBVLWLWMpSd-ERHrfMe2CBwXClExqpL1f0K73yuW9l2g3ll8IxAkJn0OcFy0mgRdGOhkwdrW8svjnwjythNxUImTvkBtN-0_TfYCqha5a3pHdRcDMPr74wgyOKRS3cH55V6Jbu2GyREv5EEa12KAUw2kosqg3989ecaMUhtg9RePIQMUs075Y3gVBtZiwGCovWjWlJ4mNc8yoYst7F0pFmHDcmHsNo-Dnq1NZshk-z9HPPx03ThDWyrhtGYR0ldEyU6E01DBNHK-Dt_9mXi8kwzeUwZ0DdmWkpUkzY5YGCSgGYwae2Rn6r6dRppi-nEZQWMxJLLyv3KjTWZja10mGncXeArPe-297-XAaTa4kmTBNQ1BeOO6wSTs0PUFFkQvgMmYrr8vfgidioGs6uHporZzVPpYKcmOJlk0TfWmbZmq8I8gIlcOnWUfe1s6jiEa0wCcYcCNwO__cEgmOTha-MDoJuCq2INArYz18_-mH46kOv69ardY4l7Pa4mSqxzK3jMowl8IXhMXum24Ahjq-CEgNerskOsu3YJrP50kDVYaxNtyYS4kJN2UHywzFY_DAS6-QlH819SdSAAITDYTI0NJx4zwzVqClS8E1U8rMac04pYqUEXq0B0AImqB1AFzJKjNU13huibYHBB-3i4pAiksUkh3AbGGN46ais0pyT4nGUsfr5YOLvKYnGbeIejLurEAIcBAwnFWhfBNizD8jyPHfPJ4ghoBXXRElktwG8ow7W06APuS2sy4I1eY1lRSvkdfh_JyegdpHo147It9V7VcP39X6gQer23hODV0r_xfqG0Lhte8QklKT5vgJW5JAEDDZBXIPzEP3utfP8wHfn5DVRrPwpQqK_xPo30kgGiCPpubt2fPn6EdUNL1KI9vQvFecPTIZXaLVqFyFPEia8iadquHRgMysqXS-PlgRDAZJmvTgzTDOpA8xSpqktrKhNsFKwVxBl9N0sNdLB9002xume2KILN3v7u0SB_NM5HyXp71h2st3xT7mOBwidvd7_f1c8EGap_TOFd2SaZ2FOcuI9sMvwnkptSFX_ds_ANaNzPI){target="_blank"} ;
-    - **télécharger** sur l'iPad en local un fichier copie du notebook basthon complété ;
-    - **renommer** le au format `Nom_Prenom-fiche.ipynb` ;
-    - **transmettre** votre fichier `.ipynb` en pièce jointe d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr) ;
-
-    ![PJ](images/undraw_attached_file_re_0n9b.svg){: .center width=30%}
-
-    - **installer** l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/){target="_blank"} depuis la bibliothèque d'applications **Eleve** ;
-    - **déplacer**  votre fichier `.ipynb` depuis le dossier `Téléchargements` vers un nouveau dossier nommé `SI` dans le dossier `Carnets` ;
-    - **ouvrir** votre notebook avec `Carnets` pour l'augmenter...
-
-
-=== "TRAVAIL À FAIRE"
-
-    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
-
-    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
-
-    - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
-
- -->
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
 
 ***
 ## Le 19/09
@@ -416,8 +383,44 @@
     - **Lire** les pages de présentation des spécialités [Sciences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Sciences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
 
+<!-- 
+Anciens Archives    
+
+## Le 27/09
+
+=== "CONTENU DE SÉANCE"
+
+    ### Présentation de l'environnement de travail :
+    
+    - Dépot [GitHub](https://github.com/ericECmorlaix/2SI_2022-2023){target="_blank"} qui héberge ce site ;
+    - Organisation du Labo de SI ;
+    - Applications iPad utiles : **Carnets**, **Obsidian**, Mindomo, Sketchbook, **EV3 Classroom**, OnShape, ...   
+
+    ### Prise en main des [notebook jupyter](./notebook) pour communiquer un compte rendu :
+
+    ![work](images/undraw_Work_time_re_hdyv.svg){: .center width=40%}
+
+    - **compléter** dans un navigateur une [fiche d'informations à partir de son lien **basthon**](https://notebook.basthon.fr/?ipynb=eJztVttu4zYQ_ZWp8uBdwJKv2USO66DdYtEAaTfb3RYo4iCgyJHFhCK1JBXHCPIvfUw-oc_-sQ5lx-ukaNHkqShqGDaH5NzOnBnpJuKolItGpzdRiZ4J5lk0urltN_vnflFhNIpKZi-FmeuoHTlTWx72dnbgneQFgkCwqB3KmcYStXdQ0R1Qre3NcEss77mpr9D6oOTgI5eoOS3oTLWO9Gx5ryXWNrptPz-YHTgS5EfmkjMvjR5NdQw_mhJGkCRJEE4oym35rWLO4YM81cHGW4TPNcIFQs6koy-ghn6334_pZwCH8KE2kv7eL3-Hw6C0pfuhRgXoPJRGQ2XNBVLWLWMpSd-ERHrfMe2CBwXClExqpL1f0K73yuW9l2g3ll8IxAkJn0OcFy0mgRdGOhkwdrW8svjnwjythNxUImTvkBtN-0_TfYCqha5a3pHdRcDMPr74wgyOKRS3cH55V6Jbu2GyREv5EEa12KAUw2kosqg3989ecaMUhtg9RePIQMUs075Y3gVBtZiwGCovWjWlJ4mNc8yoYst7F0pFmHDcmHsNo-Dnq1NZshk-z9HPPx03ThDWyrhtGYR0ldEyU6E01DBNHK-Dt_9mXi8kwzeUwZ0DdmWkpUkzY5YGCSgGYwae2Rn6r6dRppi-nEZQWMxJLLyv3KjTWZja10mGncXeArPe-297-XAaTa4kmTBNQ1BeOO6wSTs0PUFFkQvgMmYrr8vfgidioGs6uHporZzVPpYKcmOJlk0TfWmbZmq8I8gIlcOnWUfe1s6jiEa0wCcYcCNwO__cEgmOTha-MDoJuCq2INArYz18_-mH46kOv69ardY4l7Pa4mSqxzK3jMowl8IXhMXum24Ahjq-CEgNerskOsu3YJrP50kDVYaxNtyYS4kJN2UHywzFY_DAS6-QlH819SdSAAITDYTI0NJx4zwzVqClS8E1U8rMac04pYqUEXq0B0AImqB1AFzJKjNU13huibYHBB-3i4pAiksUkh3AbGGN46ais0pyT4nGUsfr5YOLvKYnGbeIejLurEAIcBAwnFWhfBNizD8jyPHfPJ4ghoBXXRElktwG8ow7W06APuS2sy4I1eY1lRSvkdfh_JyegdpHo147It9V7VcP39X6gQer23hODV0r_xfqG0Lhte8QklKT5vgJW5JAEDDZBXIPzEP3utfP8wHfn5DVRrPwpQqK_xPo30kgGiCPpubt2fPn6EdUNL1KI9vQvFecPTIZXaLVqFyFPEia8iadquHRgMysqXS-PlgRDAZJmvTgzTDOpA8xSpqktrKhNsFKwVxBl9N0sNdLB9002xume2KILN3v7u0SB_NM5HyXp71h2st3xT7mOBwidvd7_f1c8EGap_TOFd2SaZ2FOcuI9sMvwnkptSFX_ds_ANaNzPI){target="_blank"} ;
+    - **télécharger** sur l'iPad en local un fichier copie du notebook basthon complété ;
+    - **renommer** le au format `Nom_Prenom-fiche.ipynb` ;
+    - **transmettre** votre fichier `.ipynb` en pièce jointe d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr) ;
+
+    ![PJ](images/undraw_attached_file_re_0n9b.svg){: .center width=30%}
+
+    - **installer** l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/){target="_blank"} depuis la bibliothèque d'applications **Eleve** ;
+    - **déplacer**  votre fichier `.ipynb` depuis le dossier `Téléchargements` vers un nouveau dossier nommé `SI` dans le dossier `Carnets` ;
+    - **ouvrir** votre notebook avec `Carnets` pour l'augmenter...
 
 
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Découvrir** plus avant les fonctionnalités d'écriture en MarkDown dans les [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb){target=_blank} pour **améliorer** votre fiche d'informations et la **retransmettre** par [mail] ;
+
+    - **Lire** les pages de présentation des spécialités [Siences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Siences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
+
+ -->
 
 
 
