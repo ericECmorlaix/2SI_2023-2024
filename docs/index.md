@@ -341,7 +341,7 @@
 
     - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} ;
 
-    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/quickpi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+    - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
     - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
 
