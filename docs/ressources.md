@@ -7,8 +7,8 @@
 
 - [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} ;
 - [Visual Studio Code pour le web](https://vscode.dev){target=_blank} ;
-<!-- - [Classeur sur GitHub avec VSC](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -->
-<!-- - [Les notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/){target=_blank} -->
+<!-- - [Classeur sur GitHub avec VSC](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -->
+<!-- - [Les notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} -->
 
 ## Autres liens directs
 
