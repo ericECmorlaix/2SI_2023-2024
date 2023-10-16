@@ -303,13 +303,21 @@
 
  -->
 ***
-## Le 10/10
+## Les 10 et 17/10
 
 === "CONTENU DE SÉANCE"
 
     - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
     - **S'initier** à la modélisation 3D avec [BlocksCAD](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
+
+    - Evocation du projet **"Couronne de l'Avent"** :
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RwjsnJRihXg?si=Thi1l0IKc9Zej4Pv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+    > Quelles solutions pour les bougies ?
 
 === "TRAVAIL À FAIRE"
 
