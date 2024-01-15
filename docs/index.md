@@ -424,12 +424,32 @@
     - **Lire** les pages de présentation des spécialités [Sciences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Sciences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
  -->
+
+***
+## Les 16/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Poursuivre** la modélisation 3D avec [BlocksCAD](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} et **appliquer** à l'impression 3D ;
+    
+    - Remédiation quant à la prise en main des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target="_blank"} pour communiquer un compte rendu : [fiche 2SI dans Capytale ](https://capytale2.ac-paris.fr/web/c/dfa3-2595249){target="_blank"} ;
+
+    - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
+
+    
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et compléter progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
+
+    - **Jouer** à résoudre le Casse Tête en ligne [ici (code JavaScript)](http://isn.si.lycee.ecmorlaix.fr/casseTete/){target=_blank} ou encore [là (code Scratch)](https://scratch.mit.edu/projects/179937454/){target=_blank} ;
 ***
 ## Les 09/01
 
 === "CONTENU DE SÉANCE"
-
-    - Remédiation quant à la prise en main des [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target="_blank"} pour communiquer un compte rendu ;
 
     - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
