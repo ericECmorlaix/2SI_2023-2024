@@ -1,7 +1,7 @@
 
-## [Présentation SI](http://si.lycee.ecmorlaix.fr){target=_blank}
+## [Présentation SI](https://ericecmorlaix.github.io/si/){target=_blank}
 
-## [Présentation NSI](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}
+## [Présentation NSI](https://ericecmorlaix.github.io/nsi/){target=_blank}
 
 ## Environnement Numérique de Travail en SI
 
