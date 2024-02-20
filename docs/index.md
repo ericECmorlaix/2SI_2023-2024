@@ -425,6 +425,37 @@
 
  -->
 ***
+## Le 20/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Prise en main** de la programmation des Lego Mindstorms EV3 avec l'application : "EV3 Classroom" :
+        1. **Hello !** => expérimenter afin d'expliquer comment fonctionne la communication avec la brique depuis une tablette et depuis un PC...  ;
+        2. **Moteurs et capteurs** => programmer les différents capteurs et moteurs disponibles afin d'expliquer leur fonctionnement... ;
+        3. **Se déplacer** => construire et programmer une base motrice afin d'expliquer le déplacement produit par les différentes instructions... ;
+        4. **Fichier > Nouveau Projet**  =>  créer une nouvelle trame de programmation personnalisée et la partager...
+
+    - **S'entrainer** pour la [Nuit du Code](https://nuit-du-code.forge.apps.education.fr/DOCUMENTATION/SCRATCH/04-entrainements-selections/){target=_blank}
+
+    - **Programmer** une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de **réaliser** l'une ou l'autre des constructions de Yahboom :
+        - [World of Module sensor kit ](http://www.yahboom.net/study/WOM-Sensor-Kit-microbit){target=_blank}
+        - [Building:bit starter kit](http://www.yahboom.net/study/Building_bit){target=_blank}
+        - [Building:bit superkit](http://www.yahboom.net/study/buildingbit-super-kit){target=_blank}
+    
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+
+    - **Finir** les [activités d'escape game pour l'accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} ;
+    - **relever** tous [les défis sur BBC micro:bit](./bbc_microbit){target=_blank} ;
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et compléter progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
+
+    - **Jouer** à résoudre le Casse Tête en ligne [ici (code JavaScript)](http://isn.si.lycee.ecmorlaix.fr/casseTete/){target=_blank} ou encore [là (code Scratch)](https://scratch.mit.edu/projects/179937454/){target=_blank} ;
+
+***
 ## Le 30/01
 
 === "CONTENU DE SÉANCE"
