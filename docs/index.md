@@ -423,7 +423,7 @@
 
     - **Lire** les pages de présentation des spécialités [Sciences de l'Ingénieur](http://si.lycee.ecmorlaix.fr/){target=_blank} et [Numérique et Sciences Informatiques](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}...
 
- -->
+ 
 ***
 ## Le 20/02
 
@@ -523,8 +523,11 @@
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
 
     - **Jouer** à résoudre le Casse Tête en ligne [ici (code JavaScript)](http://isn.si.lycee.ecmorlaix.fr/casseTete/){target=_blank} ou encore [là (code Scratch)](https://scratch.mit.edu/projects/179937454/){target=_blank} ;
+-->
+
 ***
-## Le 19/12
+
+## Le 27/03
 
 === "CONTENU DE SÉANCE"
 
