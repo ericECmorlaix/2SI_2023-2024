@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ericecmorlaix.github.io/2SI_2023-2024/</loc>
+         <lastmod>2024-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/2SI_2023-2024/ressources/</loc>
+         <lastmod>2024-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/2SI_2023-2024/bbc_microbit/</loc>
+         <lastmod>2024-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
